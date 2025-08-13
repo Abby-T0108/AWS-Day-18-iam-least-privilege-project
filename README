@@ -1,0 +1,29 @@
+AWS IAM Least Privilege Access Project
+
+This project demonstrates hands-on implementation of AWS Identity and Access Management (IAM) Least Privilege Access as part of my professional development in cloud security.
+
+Project Goal
+To create a secure, role-based access system in AWS that ensures users have only the permissions they need to perform their jobs—no more, no less.
+
+Roles Implemented
+1. Developer: Access only to development resources  
+2. Read-Only Auditor: View-only access for auditing  
+3. S3 Manager: Manage specific S3 buckets  
+4. EC2 Operator: Start/stop EC2 instances  
+
+Key Accomplishments
+1. Designed custom IAM policies for each role  
+2. Created user groups and test accounts for practical validation  
+3. Applied least privilege principles to reduce security risk  
+4. Verified access controls across multiple AWS services  
+
+Skills Demonstrated
+1. AWS IAM policy creation and role management  
+2. Cloud security best practices  
+3. Secure infrastructure deployment in AWS  
+4. Hands-on experience with EC2, S3 and IAM  
+
+This project is a demonstration of my readiness to contribute to a cloud security or cloud infrastructure team, delivering secure and well-structured AWS environments.
+
+Hashtags
+#100DaysOfCloud #AWS #CloudSecurity #CloudEngineering #AWSCloud #CloudInfrastructure
